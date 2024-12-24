@@ -1,0 +1,14 @@
+.main-container{
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto auto auto;
+}
+.container{
+    border: 2px solid rgb(237, 150, 95);
+    border-radius: 5%;
+    padding: 5%;
+    margin: 5%;
+    background-color: rgb(124, 117, 117);
+    color: rgb(199, 207, 214);
+    box-shadow: 10px 10px 10px black;
+}

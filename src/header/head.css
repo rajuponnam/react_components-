@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+}
+nav{
+    height: auto;
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(2, 55, 70);
+    font-size: 1.2em;
+}
+.nav-links{
+    display: flex;
+}
+ul li{
+    padding-left: 10%;
+}
+.logo{
+    font-weight: 800;
+}
